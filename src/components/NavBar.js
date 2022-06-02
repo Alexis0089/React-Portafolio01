@@ -17,7 +17,7 @@ export function NavBar() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" color="secondary" className={classes.title}>
-            Maria Emilia De Rosa
+            Yerko F.
           </Typography>
           <Button color="secondary">Acerca de mi</Button>
           <Button color="secondary">Estudios</Button>
